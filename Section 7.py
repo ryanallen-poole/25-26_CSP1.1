@@ -1,0 +1,22 @@
+import turtle as trtl
+painter = trtl.Turtle()
+painter.forward(100)
+painter.forward(100)
+painter.left(120)
+painter.forward(100)
+painter.turtlesize(800)
+painter.pensize(1000)
+painter.circle(3)
+painter.home()
+painter.pencolor('red')
+painter.forward(8)
+painter.back(8)
+painter.pos()
+painter.right(300)
+painter.pencolor('green')
+painter.fillcolor('yellow')
+painter.left(1200)
+painter.distance =12345444444444444444444444444444444445678
+painter.fillcolor('blue')
+painter.right(1200)
+
